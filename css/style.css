@@ -1,0 +1,27 @@
+/* used as guide = https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2 */
+
+@import url('https://fonts.googleapis.com/css2?family=Fuggles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200;400;600&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Kanit', sans-serif;
+  background: black;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+p {
+  color: rgb(214, 214, 214);
+}
+
+#r-k-m{
+  font-family: 'Fuggles', cursive;
+  color: rgb(214, 214, 214);
+}
+
