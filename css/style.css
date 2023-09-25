@@ -163,3 +163,73 @@ border-radius: 17rem;
   margin: auto 0 ;
   }
 
+#experience{
+  position: relative;
+}
+
+.experience-sub-title {
+  color: rgb(196, 196, 196);
+  font-weight: 600;
+  font-size: 1.75rem;
+  margin-bottom: 2rem;
+}
+
+.experience-details-container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 3rem;
+}
+
+.article-container {
+  display: flex;
+  text-align: initial;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 2.5rem;
+  justify-content: space-around;
+}
+
+.article-container h3{
+  color: white;
+}
+
+article {
+  display: flex;
+  width: 10rem;
+  justify-content: space-around;
+  gap: 0.5rem;
+}
+article .icon {
+  cursor: default;
+}
+#experience h1{
+  margin-bottom: 10rem;
+}
+
+#projects {
+  position: relative;
+}
+
+.color-container {
+  background: rgb(26, 26, 26);
+  border-radius: 2rem;
+  border: rgb(255, 255, 255) 0.15rem solid;
+  border-color: rgb(77, 77, 77);
+}
+
+.project-img {
+  border-radius: 2rem;
+  width: 75%;
+  height: 75%;
+}
+
+.project-title {
+  margin: 1rem;
+  color: rgb(230, 230, 230);
+}
+.project-btn {
+  color: black;
+  border-color: grey;
+}
+
