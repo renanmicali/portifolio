@@ -233,3 +233,106 @@ article .icon {
   border-color: grey;
 }
 
+#contact{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 70vh;
+}
+
+.contact-info-upper-container {
+  display: flex;
+  justify-content: center;
+  border-radius: 2rem;
+  border: rgb(255, 255, 255) 0.15rem solid;
+  border-color: rgb(77, 77, 77);
+  background: rgb(26, 26, 26);
+  margin: 2rem auto;
+  padding: 0.5rem ;
+}
+
+.contact-info-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin: 1rem;
+}
+
+.contact-info-container p {
+  font-size: larger;
+}
+
+.contact-icon{
+  cursor: default;
+}
+
+footer {
+  height: 26vh;
+  margin: 0 1rem;
+ 
+}
+
+footer p{
+  text-align: center;
+}
+
+.nav_links-container {
+  display: flex;
+  justify-content: center;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.btn {
+  font-weight: 600;
+  transition: all 300ms ease;
+  padding: 1rem;
+  width: 8rem;
+  border-radius: 2rem;
+}
+
+.btn-color-1,
+.btn-color-2 {
+  border: rgb(53, 53, 53) 0.1rem solid;
+}
+
+.btn-color-1:hover,
+.btn-color-2:hover {
+  cursor: pointer;
+}
+
+.btn-color-1,
+.btn-color-2:hover {
+  background: rgb(124, 124, 124);
+  color: white;
+}
+
+.btn-color-1:hover {
+  background: rgb(0, 0, 0);
+}
+
+.btn-color-2 {
+  background: rgb(99, 99, 99);
+}
+
+.btn-color-2:hover {
+  border: rgb(255, 255, 255) 0.1rem solid;
+}
+
+.btn-container {
+  gap: 1rem;
+}
+#experience_intro{
+  font-size: large;
+}
+#projects_intro{
+  font-size: large;
+}
+#contact_intro{
+  font-size: larger;
+}
