@@ -25,3 +25,141 @@ p {
   color: rgb(214, 214, 214);
 }
 
+a, .btn {
+  transition: all 300ms ease;
+}
+
+header, 
+.nav_links {
+  display: flex;
+}
+
+header {
+  justify-content: space-around;
+  align-items: center;
+  height: 10vh;
+}
+
+.nav_links{
+  gap: 2rem;
+  list-style: none;
+  font-size: 1.5rem;
+}
+
+a{
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  text-decoration-color: rgb(196, 196, 196);
+}
+a:hover{
+  color: rgb(196, 196, 196);
+  text-decoration: none;
+}
+
+.logo {
+  font-size: 5rem;
+}
+
+section {
+  padding-top: 4vh;
+  height: 90vh;
+  margin: 0 10rem;
+  box-sizing: border-box;
+  min-height: fit-content;
+}
+
+.section-container {
+  display: flex;
+  
+}
+
+#aboutRenan{
+  display: flex;
+  justify-content: center;
+  gap: 15rem;
+  height: 85vh;
+}
+
+.section_pic-container {
+  display: flex;
+  height: 400px;
+  width: 400px;
+  margin: auto 0;
+}
+
+.section_text {
+  align-self: center;
+  text-align: center;
+}
+
+.section_text p{
+  font-weight: 600;
+}
+
+.section_text_p1 {
+  text-align: center;
+  color: rgb(214, 214, 214);
+}
+
+.section_text_p2 {
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+
+}
+.title {
+  font-size: 3rem;
+  text-align: center;
+  color: white;
+}
+#about_Renan {
+  position: relative;
+}
+.about-container {
+  gap: 3rem;
+}
+.about-details-container {
+  justify-content: center;
+  flex-direction: column;
+}
+
+.about-details-container h3{
+  color: white;
+}
+.about-container, .about-details-container{
+  display: flex;
+}
+
+.about-pic {
+border-radius: 17rem;
+}
+.icon{
+  cursor: pointer;
+  height: 2rem;
+}
+.details-container {
+  padding: 1.5rem;
+  flex: 1;
+  background: rgb(26, 26, 26);
+  border-radius: 2rem;
+  border: rgb(255, 255, 255) 0.15rem solid;
+  border-color: rgb(77, 77, 77);
+  text-align: center;
+}
+.section-container{
+  gap: 4rem;
+  height: 80%;
+}
+#intro_large{
+  font-size: large;
+}
+#about_paragraph {
+  margin-top: 2.5rem;
+  font-size: large;
+}
+
+.section_pic-container{
+  height: 415px ;
+  width: 415px;
+  margin: auto 0 ;
+  }
+
