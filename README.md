@@ -3,7 +3,7 @@
 <h3>Here i will explain what i have done and how</h3>
 
 <p>Intially i thought about how i would like the lay out of the website to be.<br>
-I discored online a good amount of sites that have a load of content such as color pallets, simple css templates and website tutorials.
+I discovered online a good amount of sites that have a load of content such as color pallets, simple css templates and website tutorials.
 <br>
 After my reaserch i decided to start cooding. I got to admit i got a bit excited and did a lot without commiting the files into Github.
   Once i realised that the commits were important for the project i re-made my whole file page and started copying and pasting allowing for me to commit files in between sections.
