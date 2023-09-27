@@ -2,6 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Fuggles&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200;400;600&display=swap');
+
 *{
   margin: 0;
   padding: 0;
@@ -335,4 +336,31 @@ footer p{
 }
 #contact_intro{
   font-size: larger;
+}
+
+/* Blog cooding */
+
+#about_blog {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 5rem;
+  height: 75vh;
+}
+
+.blog-pic{
+  height: 450px;
+  width: 450px;
+  border-radius: 17rem;
+}
+
+.blog_pic-container {
+  display: flex;
+  justify-content: center;
+  height: 250px;
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10rem;
+  
 }
