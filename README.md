@@ -15,3 +15,6 @@ After my reaserch i decided to start cooding. I got to admit i got a bit excited
     <p>
       As always a good learning curve and i garantee it won't happen again. 
     </p>
+    <p>After our 26/09 class i realize that i have much more to learn, i decided implementing more pages and play around with some different features that CSS and HTML have. <br>
+    I built a new page (MyBlog) and tried to follow the Git paterns as much as i could. My commits for the second part of the project showed that Git. can be used to follow and understand how projects are made and done.
+    </p>
